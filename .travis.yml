@@ -1,2 +1,2 @@
 language: cpp
-script: ./Makefile
+script: make
