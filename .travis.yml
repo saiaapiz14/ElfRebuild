@@ -1,5 +1,2 @@
 language: cpp
-compiler:
-    # ... и с помощью GCC, и Clang
-    - gcc
-    - clang
+script: ./configure && make
